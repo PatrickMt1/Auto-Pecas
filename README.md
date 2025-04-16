@@ -5,6 +5,7 @@ Elite Auto Car é um sistema desktop desenvolvido em Java como parte de um Traba
 O sistema foi construído com Java 7, utilizando JDBC para conexão com banco de dados MySQL, com interface gráfica em Swing e arquitetura orientada a objetos.
 
 🎯 Funcionalidades
+
 ✅ Tela de Login com autenticação
 
 ✅ Cadastro de Clientes com validação de CPF
