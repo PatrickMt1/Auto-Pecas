@@ -1,5 +1,5 @@
 Elite Auto Car
-Elite Auto Car é um sistema desktop desenvolvido em Java como parte de um Trabalho de Conclusão de Curso (TCC) realizado em 2015. O projeto tem como objetivo gerenciar uma loja de autopeças, oferecendo funcionalidades completas para controle de clientes, funcionários, fornecedores, veículos, produtos, ordens de serviço e emissão de notas fiscais.
+Elite Auto Car é um sistema desktop desenvolvido em Java como parte de um Trabalho de Conclusão de Curso (TCC) no SENAC (Serviço Nacional de Aprendizagem Comercial) realizado em 2015. O projeto tem como objetivo gerenciar uma loja de autopeças, oferecendo funcionalidades completas para controle de clientes, funcionários, fornecedores, veículos, produtos, ordens de serviço e emissão de notas fiscais.
 
 📌 Sobre o Projeto
 O sistema foi construído com Java 7, utilizando JDBC para conexão com banco de dados MySQL, com interface gráfica em Swing e arquitetura orientada a objetos.
